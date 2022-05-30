@@ -8,3 +8,5 @@ const cliente = {
 const chaves = ["nome", "idade", "cpf", "email"]
 
 console.log(chaves[0], )
+
+chaves.firEach(info => console.log(cliente[info]))
