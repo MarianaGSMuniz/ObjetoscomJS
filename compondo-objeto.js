@@ -7,10 +7,11 @@ const cliente = {
 
 }
 
-cliente.depedentes = {
+cliente.dependentes = {
     nome: "Arendeu",
     parentesco: "filho",
     dataNasc: "01/02/2000"
 }
 
 console.log(cliente)
+cliente.dependentes.nome = "Arendeu Souza"
