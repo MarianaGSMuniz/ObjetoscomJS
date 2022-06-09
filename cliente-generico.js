@@ -7,3 +7,5 @@ function Cliente(nome, cpf, email, saldo) {
         this.saldo += valor
     }
 }
+const andre = new Cliente("Mariana", "741698459634", "mari@test.com", 100)
+console.log(Mariana)
